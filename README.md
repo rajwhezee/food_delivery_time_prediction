@@ -1,6 +1,6 @@
 
 # food_delivery_time_prediction
-=======
+
 # Food Delivery Time Prediction
 
 This project predicts food delivery time using a machine learning algorithm. The model estimates delivery time based on features like distance, vehicle type, weather conditions, and order timings.
