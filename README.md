@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # food_delivery_time_prediction
 =======
 # Food Delivery Time Prediction
